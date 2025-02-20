@@ -1,5 +1,3 @@
-<
-
 ### Hi there! 👋 I'm Jasmeet
 
 I'm a passionate **Software Engineer** 🚀 with expertise in **Full Stack Development, AI, and Cloud Computing**. I love solving complex problems and building scalable applications.
