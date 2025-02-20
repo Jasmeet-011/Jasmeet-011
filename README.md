@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** 🚀 with expertise in **Full Stack Devel
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img width="40" height="40" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
