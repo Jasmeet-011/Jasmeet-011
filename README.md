@@ -42,7 +42,7 @@ Computer Science at NYU Tandon, where I’m honing my skills in software develop
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasmeet011)](https://linkedin.com/in/jasmeet011)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://your-portfolio-link)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:jasmeetsingh5003@gmail.com)
 
 
 ### 🤓 Fun Fact
