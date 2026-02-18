@@ -41,7 +41,10 @@ I'm a **Software Engineer** 🚀 pursuing my **Master's in Computer Science at N
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Jasmeet-011&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jasmeet-011&theme=radical&no-frame=true&row=1&column=4" alt="GitHub Trophies"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jasmeet-011&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
