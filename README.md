@@ -59,7 +59,7 @@ I'm a **Software Engineer** 🚀 pursuing my **Master's in Computer Science at N
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jasmeet011)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jasmeet-singh-wadhwa/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-ten-kappa-14.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jasmeetsingh5003@gmail.com)
 
