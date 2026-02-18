@@ -34,18 +34,18 @@ I'm a **Software Engineer** 🚀 pursuing my **Master's in Computer Science at N
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jasmeet-011&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" alt="Jasmeet's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeet-011&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
+</p> -->
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Jasmeet-011&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Jasmeet-011&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jasmeet-011&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 ---
 
