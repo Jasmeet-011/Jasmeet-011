@@ -1,10 +1,12 @@
 ### Hi there! 👋 I'm Jasmeet
 
-I'm a passionate **Software Engineer** 🚀 with expertise in **Full Stack Development, AI, and Cloud Computing**. I love solving complex problems and building scalable applications.
+I'm a **Software Engineer** 🚀 pursuing my **Master's in Computer Science at NYU Tandon**, passionate about **Full Stack Development, AI, and Cloud Computing**. I love solving complex problems and building scalable, impactful applications.
+
+---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Languages:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -12,15 +14,15 @@ I'm a passionate **Software Engineer** 🚀 with expertise in **Full Stack Devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
-**Cloud & DevOps:**  
+**Cloud, DevOps & Databases:**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -28,44 +30,35 @@ I'm a passionate **Software Engineer** 🚀 with expertise in **Full Stack Devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-
+---
 
 ### 📊 GitHub Stats
 
-![Jasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmeet-011&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasmeet-011&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jasmeet's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeet-011&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeet-011&layout=compact&theme=radical)
+---
 
+### 🎯 What I'm Currently Learning
 
-### 🎯 What I’m Learning
 - Advanced Machine Learning Algorithms 🤖
 - AWS Cloud Services ☁️
 - Scalable System Design 🏗️
 
+---
+
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasmeet011)](https://linkedin.com/in/jasmeet011)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://your-portfolio-link)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:jasmeetsingh5003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jasmeet011)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-ten-kappa-14.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jasmeetsingh5003@gmail.com)
 
+---
 
 ### 🤓 Fun Fact
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-
-<!--
-**Jasmeet-011/Jasmeet-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I’m an aspiring Software Engineer passionate about solving complex problems and building impactful solutions. I’m pursuing my Master’s degree in Computer Science at NYU Tandon, where I’m honing my skills in software development, machine learning, and scalable systems.
-Here are some ideas to get you started:
--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
