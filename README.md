@@ -23,15 +23,20 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20%28In%20Progress%29-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
 ---
 
 ### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [SilentSOS](https://github.com/Jasmeet-011) | Emergency alert app for 70M+ non-verbal users - Google Cloud + Gemini Live API Hackathon | React Native, Gemini Live API, Claude Vision, Twilio, Supabase |
-| [SynapseMeet](https://github.com/Jasmeet-011) | Real-time AI meeting intelligence platform with live transcript streaming | Next.js, FastAPI, WebSockets, Redis Pub/Sub |
-| [ChainLens](https://github.com/Jasmeet-011) | On-chain portfolio analytics platform - Aptos x NYU Builder Camp | FastAPI, MongoDB, Aptos API, Solana API |
+| [SilentSOS](https://github.com/Jasmeet-011/Silentsos) | Emergency alert app for 70M+ non-verbal users — Google Cloud + Gemini Live API Hackathon | React Native, Gemini Live API, Claude Vision, Twilio, Supabase |
+| [SynapseMeet](https://github.com/Jasmeet-011/SynapseMeet) | Real-time AI meeting intelligence platform with live transcript streaming | Next.js, FastAPI, WebSockets, Redis Pub/Sub |
+| [ChainLens](https://github.com/Jasmeet-011/On-Chain-Portfolio) | On-chain portfolio analytics platform — Aptos x NYU Builder Camp | FastAPI, MongoDB, Aptos API, Solana API |
 
 ---
 
@@ -66,6 +71,16 @@
 
 ---
 
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate%20%E2%80%93%20In%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
 ### GitHub Stats
 
 <p align="center">
@@ -81,9 +96,8 @@
 ### Currently Working On
 
 - Deploying SilentSOS, SynapseMeet, and ChainLens to production
-- AWS Solutions Architect Associate certification
+- AWS Solutions Architect Associate certification *(Cloud Practitioner ✅ complete)*
 - Open source contributions in the Python/FastAPI ecosystem
-
 
 ---
 
