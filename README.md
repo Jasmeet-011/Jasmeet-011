@@ -24,8 +24,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20%28In%20Progress%29-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <a href="https://www.credly.com/badges/dd32cf7b-7572-4b7c-b2af-0c9050238123/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/0f2262c3-59d5-483b-8860-7b3e987382e3/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -74,9 +79,13 @@
 ### Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://www.credly.com/badges/dd32cf7b-7572-4b7c-b2af-0c9050238123/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate%20%E2%80%93%20In%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://www.credly.com/badges/0f2262c3-59d5-483b-8860-7b3e987382e3/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -96,7 +105,7 @@
 ### Currently Working On
 
 - Deploying SilentSOS, SynapseMeet, and ChainLens to production
-- AWS Solutions Architect Associate certification *(Cloud Practitioner ✅ complete)*
+- AWS Solutions Architect Associate certification ✅ complete
 - Open source contributions in the Python/FastAPI ecosystem
 
 ---
