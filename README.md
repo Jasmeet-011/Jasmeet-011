@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmeet-singh-wadhwa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-website-ten-kappa-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:j.wadhwa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jasmeetsingh5003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -132,7 +132,7 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 
 <p align="center">
   <b>Building something with LLMs that needs a solid backend? Let's talk.</b><br/>
-  📫 <a href="mailto:j.wadhwa.dev@gmail.com">j.wadhwa.dev@gmail.com</a>
+  📫 <a href="mailto:jasmeetsingh5003@gmail.com">jasmeetsingh5003@gmail.com</a>
 </p>
 
 <p align="center">
