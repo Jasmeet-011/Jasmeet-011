@@ -1,117 +1,140 @@
-<h1 align="center">Hi, I'm Jasmeet Singh Wadhwa 👋</h1>
-
+<!-- Header banner -->
 <p align="center">
-  <b>NYU MS CS '26 (GPA 3.9) &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; New York</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=210&section=header&text=Jasmeet%20Singh%20Wadhwa&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20Backend%20Engineer%20%C2%B7%20NYU%20MS%20CS%20%2726%20%C2%B7%20New%20York&descSize=18&descAlignY=56&animation=fadeIn" alt="Jasmeet Singh Wadhwa" width="100%"/>
+</p>
+
+<!-- Typing tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=I+build+the+backend+that+makes+LLMs+behave.;Multi-agent+RAG%2C+with+evals+that+keep+it+honest.;One+API+in+front+of+Claude+and+Gemini.;Open+to+new+grad+AI+and+backend+roles." alt="Typing tagline"/>
 </p>
 
 <p align="center">
-  I build backend-heavy, AI-integrated systems. Most recently built <b>SilentSOS</b> at the 
-  <b>Google Cloud + Gemini Live API Hackathon</b>, an emergency alert app that dispatches 
-  GPS-tagged SMS in under 10 seconds for 70M+ non-verbal users, using React Native, 
-  Gemini Live API, and Claude Vision.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jasmeet-singh-wadhwa/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-website-ten-kappa-14.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:jw9180@nyu.edu">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/dd32cf7b-7572-4b7c-b2af-0c9050238123/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/0f2262c3-59d5-483b-8860-7b3e987382e3/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jasmeet-singh-wadhwa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolio-website-ten-kappa-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:j.wadhwa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### Featured Projects
+## 🧑‍💻 `whoami`
 
-| Project | Description | Stack |
-|---|---|---|
-| [SilentSOS](https://github.com/Jasmeet-011/Silentsos) | Emergency alert app for 70M+ non-verbal users — Google Cloud + Gemini Live API Hackathon | React Native, Gemini Live API, Claude Vision, Twilio, Supabase |
-| [SynapseMeet](https://github.com/Jasmeet-011/SynapseMeet) | Real-time AI meeting intelligence platform with live transcript streaming | Next.js, FastAPI, WebSockets, Redis Pub/Sub |
-| [ChainLens](https://github.com/Jasmeet-011/On-Chain-Portfolio) | On-chain portfolio analytics platform — Aptos x NYU Builder Camp | FastAPI, MongoDB, Aptos API, Solana API |
+```python
+class Jasmeet:
+    role        = "AI / backend engineer"
+    based_in    = "New York City"
+    education   = ["MS CS, NYU Tandon '26 (3.9)", "BE CS, SRM Institute"]
+    building    = ["LLMGateway", "AgentGuard"]
+    research    = "Config-driven ops systems with Prof. Dennis Shasha @ NYU"
+    previously  = ["SWE Intern @ Qualitest: LLM prompt pipelines on COCO, an AI test-gen platform",
+                   "TA, Object-Oriented Programming @ NYU"]
+    certified   = ["AWS Solutions Architect Associate", "AWS Cloud Practitioner"]
+    published   = "IEEE: hybrid gradient boosting for dynamic pricing"
+    side_quest  = "Open an Indian rice bowl spot someday. Chipotle, but with real spice."
+    looking_for = "New grad AI engineer and backend roles"
 
----
-
-### Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Cloud & Infra**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & LLM**
-![Gemini](https://img.shields.io/badge/-Gemini%20Live%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/-Anthropic%20Claude%20API-D97757?style=flat-square&logoColor=white)
+    def debug(self, bug):
+        return "it's always the output format"  # lesson from Qualitest
+```
 
 ---
 
-### Certifications
+## 🚀 Things I've built
 
-<p>
-  <a href="https://www.credly.com/badges/dd32cf7b-7572-4b7c-b2af-0c9050238123/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/0f2262c3-59d5-483b-8860-7b3e987382e3/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [AgentGuard](https://github.com/Jasmeet-011/AgentGuard)
+Multi-agent RAG over private docs: PDFs, Notion, Confluence, Slack exports. Researcher, Analyst, Critic and Executor agents reach tools through **MCP servers**, with hybrid search and re-ranking underneath.
+
+The part I care about most: its own **eval suite**. Faithfulness, context precision and recall, policy adherence, latency and cost, scored by LLM-as-judge against golden datasets.
+<!-- TODO: drop one real eval number here. It beats every adjective on this page. -->
+
+`Python` `MCP` `RAG` `LLM-as-judge`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔀 [LLMGateway](https://github.com/Jasmeet-011/LLMGateway) &nbsp;🚧
+One FastAPI service in front of **Claude** and **Gemini**, so apps talk to a single API instead of juggling providers.
+<!-- TODO: name the 2 or 3 features you actually shipped (fallback, caching, rate limits, cost tracking...) -->
+
+Being built right now. Watch the commits.
+
+`Python` `FastAPI` `Claude API` `Gemini API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🆘 [SilentSOS](https://github.com/Jasmeet-011/Silentsos)
+Emergency alerts for people who can't make a voice call. Sends a GPS-tagged SMS in under 10 seconds. Built at the **Google Cloud + Gemini Live API Hackathon** on a 2-person team; I led the backend.
+
+`Google ADK` `Gemini Live` `Claude Vision` `Twilio` `React Native`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [SynapseMeet](https://github.com/Jasmeet-011/SynapseMeet)
+Real-time meeting intelligence. Live transcripts stream over WebSockets and fan out through Redis Pub/Sub. Built solo, end to end.
+
+`FastAPI` `WebSockets` `Redis Pub/Sub` `Next.js`
+
+</td>
+</tr>
+</table>
+
+**Also:** [ChainLens](https://github.com/Jasmeet-011/On-Chain-Portfolio), cross-chain portfolio analytics for Aptos and Solana, built at the Aptos x NYU Builder Camp.
 
 ---
 
-### GitHub Stats
+## 🔬 Research
+
+Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one operations system serve many industries if every industry-specific rule lives in a swappable config pack? New vertical, new pack, zero new code. I'm stress-testing it on logistics, where shipments, line items and carriers make things messier.
+
+---
+
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasmeet-011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmeet-011&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,fastapi,nodejs,react,nextjs&perline=9" alt="Languages and frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,docker,aws,gcp,git,linux&perline=8" alt="Data and infra"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmeet-011&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Google_ADK-34A853?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
+  <a href="https://www.credly.com/badges/0f2262c3-59d5-483b-8860-7b3e987382e3/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAA"/></a>
+  <a href="https://www.credly.com/badges/dd32cf7b-7572-4b7c-b2af-0c9050238123/public_url"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CCP"/></a>
 </p>
 
 ---
 
-### Currently Working On
+## 🐍 Watch the snake eat my commits
 
-- Deploying SilentSOS, SynapseMeet, and ChainLens to production
-- AWS Solutions Architect Associate certification ✅ complete
-- Open source contributions in the Python/FastAPI ecosystem
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jasmeet-011&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak"/>
+</p>
 
 ---
 
-### 🤓 Fun Fact
+<p align="center">
+  <b>Building something with LLMs that needs a solid backend? Let's talk.</b><br/>
+  📫 <a href="mailto:j.wadhwa.dev@gmail.com">j.wadhwa.dev@gmail.com</a>
+</p>
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
-
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e1b4b&height=110&section=footer" width="100%" alt=""/>
+</p>
