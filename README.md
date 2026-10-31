@@ -114,15 +114,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 
 ---
 
-## 🐍 Watch the snake eat my commits
+## ⚡ Recently shipped
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jasmeet-011/Jasmeet-011/output/github-snake.svg"/>
-  </picture>
-</p>
+<!--RECENT:START-->
+_Auto-updated daily from my latest commits._
+<!--RECENT:END-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jasmeet-011&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak"/>
