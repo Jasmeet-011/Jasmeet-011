@@ -117,7 +117,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 ## ⚡ Recently shipped
 
 <!--RECENT:START-->
-_Auto-updated daily from my latest commits._
+- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · today
+- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `Merge pull request #8 from Jasmeet-011/step-5b-fixup` · 9 days ago
+- **[cloudmart](https://github.com/Jasmeet-011/cloudmart)** · `Delete VITE_API_BASE_URL from .env file` · 13 days ago
+- **[neetcode-submissions](https://github.com/Jasmeet-011/neetcode-submissions)** · `Add: longest-consecutive-sequence - submission-3` · 1 month ago
+- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `Evals tab: no delta arrow when full equals baseline; horizontal bars ...` · 1 month ago
 <!--RECENT:END-->
 
 <p align="center">
