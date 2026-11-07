@@ -117,11 +117,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 ## ⚡ Recently shipped
 
 <!--RECENT:START-->
-- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: M10 review round 2, milestone evidence` · today
-- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 2 days ago
-- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 4 days ago
-- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · 5 days ago
-- **[cloudmart](https://github.com/Jasmeet-011/cloudmart)** · `Delete VITE_API_BASE_URL from .env file` · 18 days ago
+- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: archive session logs, DECISIONS index, per-test timeout` · today
+- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 3 days ago
+- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 5 days ago
+- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · 6 days ago
+- **[cloudmart](https://github.com/Jasmeet-011/cloudmart)** · `Delete VITE_API_BASE_URL from .env file` · 19 days ago
 <!--RECENT:END-->
 
 <p align="center">
