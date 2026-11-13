@@ -117,11 +117,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 ## ⚡ Recently shipped
 
 <!--RECENT:START-->
-- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: D-101 review fixes` · today
-- **[Portfolio_Website](https://github.com/Jasmeet-011/Portfolio_Website)** · `evals: accept "does not state" and "aren't in the workspace"; report` · today
-- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 8 days ago
-- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 10 days ago
-- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · 11 days ago
+- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `test: cache platform.uname in the guard's child before Popen is replaced` · today
+- **[Portfolio_Website](https://github.com/Jasmeet-011/Portfolio_Website)** · `evals: accept "does not state" and "aren't in the workspace"; report` · yesterday
+- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 9 days ago
+- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 11 days ago
+- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · 12 days ago
 <!--RECENT:END-->
 
 <p align="center">
