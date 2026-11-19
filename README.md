@@ -117,11 +117,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 ## ⚡ Recently shipped
 
 <!--RECENT:START-->
-- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: review fixes: the index notes only some old amendments; D-099's...` · 4 days ago
-- **[Portfolio_Website](https://github.com/Jasmeet-011/Portfolio_Website)** · `evals: accept "does not state" and "aren't in the workspace"; report` · 6 days ago
-- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 14 days ago
-- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 16 days ago
-- **[FranchiseAds](https://github.com/Jasmeet-011/FranchiseAds)** · `docs: UI built with Claude Code, not Lovable` · 17 days ago
+- **[task-manager-api](https://github.com/Jasmeet-011/task-manager-api)** · `Add M4 session transcript` · today
+- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: review fixes: the index notes only some old amendments; D-099's...` · 5 days ago
+- **[Portfolio_Website](https://github.com/Jasmeet-011/Portfolio_Website)** · `evals: accept "does not state" and "aren't in the workspace"; report` · 7 days ago
+- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 15 days ago
+- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 17 days ago
 <!--RECENT:END-->
 
 <p align="center">
