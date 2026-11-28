@@ -117,11 +117,11 @@ Working with **Prof. Dennis Shasha** at NYU on a falsifiable question: can one o
 ## ⚡ Recently shipped
 
 <!--RECENT:START-->
-- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: measurement 1 with metrics on measured 4.28 ms at p95; README's...` · today
-- **[task-manager-api](https://github.com/Jasmeet-011/task-manager-api)** · `Add M8 transcript and combined transcript` · 4 days ago
+- **[LLMGateway](https://github.com/Jasmeet-011/LLMGateway)** · `docs: USAGE's Compose start order matches compose.yaml (M20 review)` · today
+- **[task-manager-api](https://github.com/Jasmeet-011/task-manager-api)** · `Add M8 transcript and combined transcript` · 5 days ago
 - **[Portfolio_Website](https://github.com/Jasmeet-011/Portfolio_Website)** · `evals: accept "does not state" and "aren't in the workspace"; report` · 16 days ago
-- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 23 days ago
-- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 25 days ago
+- **[AgentGuard](https://github.com/Jasmeet-011/AgentGuard)** · `README: fix small-sample wording; quality scores, not all scores, are...` · 24 days ago
+- **[FranchiseAds-Console](https://github.com/Jasmeet-011/FranchiseAds-Console)** · `docs: progress for the presentation fixes` · 26 days ago
 <!--RECENT:END-->
 
 <p align="center">
